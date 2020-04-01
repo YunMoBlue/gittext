@@ -3,3 +3,4 @@ Git is free software.
 Git hao a mutable index called stage.
 Git tracks changes.
 Creating a new brunch is quick.
+Creating a new branch is quick AND simple
